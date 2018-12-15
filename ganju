@@ -1,0 +1,20 @@
+/** @file include/ganju
+ *  This is a Standard C++ Library header.
+ */
+
+#ifndef _GLIBCXX_GANJU
+#define _GLIBCXX_GANJU 1
+
+#pragma GCC system_header
+
+#include <bits/c++config.h>
+#include <iostream>
+#include <windows.h>
+#include <conio.h>
+#include <cmath>
+#include <stdio.h>
+#include <stdlib.h>
+#include <fstream>
+#include <cstring>
+
+#endif /* _GLIBCXX_GANJU */

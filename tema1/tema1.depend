@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539333315 source:d:\9 a 2018\tema1\main.cpp
+	<iostream>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
